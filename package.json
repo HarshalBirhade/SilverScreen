@@ -1,5 +1,5 @@
 {
-  "name": "knowledgehut-js-starter",
+  "name": "SilverScreen-Like IMDB",
   "version": "2.0.2",
   "description": "A starter kit for building web applications by KnowledgeHut upGrad for the JavaScript and FullStack Programs",
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "npx vite build --emptyOutDir",
     "preview": "npx vite preview --host"
   },
-  "author": "Sachin Bhatnagar <sachin@knowledgehut.co> (https://www.knowledgehut.com)",
+  "author": "Harshal Birhade",
   "license": "AFL-3.0",
   "devDependencies": {
     "msw": "^0.47.4",
